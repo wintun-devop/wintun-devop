@@ -1,6 +1,6 @@
 <div style="display: flex; flex-direction: column; align-items: center; font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
     <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=wintun-devop&theme=xcode&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=wintun-devop&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300&custom_title=" />
     <br>
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=wintun-devop&show_icons=true&theme=gruvbox&count_private=true" alt="WinTun's GitHub Status" style="max-width: 400px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);"/>
