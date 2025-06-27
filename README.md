@@ -33,6 +33,7 @@
 <a href="https://en.wikipedia.org/wiki/PowerShell" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/powershell/powershell.png" alt="reactnative" width="40" height="40"/> </a> 
 <a href="https://www.raspberrypi.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="visualstudio" width="40" height="40"/> </a></p>
+<a href="https://developer.hashicorp.com/terraform" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" alt="terraform" width="40" height="40"/> </a></p>
 
 <br />
 <br />
