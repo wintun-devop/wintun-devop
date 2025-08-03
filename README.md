@@ -17,7 +17,8 @@
 <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png" alt="erlang" "width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" alt="typescript" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" alt="typescript" width="40" height="40"/> </a>
+<a href="https://go.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/golang-samples/gopher-vector/master/gopher.svg" alt="golang" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" alt="flask" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" alt="django" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
@@ -33,7 +34,6 @@
 <a href="https://en.wikipedia.org/wiki/PowerShell" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/powershell/powershell.png" alt="reactnative" width="40" height="40"/> </a> 
 <a href="https://www.raspberrypi.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="visualstudio" width="40" height="40"/> </a>
-<a href="https://go.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/golang-samples/gopher-vector/master/gopher.svg" alt="golang" width="40" height="40"/> </a>
 <a href="https://developer.hashicorp.com/terraform" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" alt="terraform" width="40" height="40"/> </a></p>
 
 
