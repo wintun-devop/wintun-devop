@@ -20,6 +20,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" alt="typescript" width="40" height="40"/> </a>
 <a href="https://go.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/golang-samples/gopher-vector/master/gopher.svg" alt="golang" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" alt="flask" width="40" height="40"/> </a>
+<a href="https://expressjs.com/" target="_blank"> <img src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white" alt="express" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" alt="django" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
